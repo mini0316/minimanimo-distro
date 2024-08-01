@@ -1,2 +1,3 @@
 resourcePacks:["vanilla","fabric","file/resource.zip"]
 lang:ko_kr
+guiScale:2
