@@ -1,1 +1,1 @@
-resourcePacks:["vanilla","fabric","resource"]
+resourcePacks:["vanilla","fabric","file/resource.zip"]
